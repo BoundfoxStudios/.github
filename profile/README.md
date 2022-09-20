@@ -2,7 +2,7 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCf54CbMEHpI3fXE-SwMg0Ug?style=social)][1] [![Discord](https://img.shields.io/discord/454361389935493124?logo=discord&logoColor=white)][2]
 
-![Boundfox Studios](boundfoxstudios.png)
+![Boundfox Studios](https://raw.githubusercontent.com/BoundfoxStudios/.github/main/profile/boundfoxstudios.png)
 
 Boundfox Studios is a little Indie Development Studio based in Zweibrücken, Germany.
 
@@ -13,7 +13,7 @@ Boundfox Studios is a little Indie Development Studio based in Zweibrücken, Ger
 
 ### Our Games
 
-[![Bug-A-Ball](bug-a-ball.png)](https://bugaball.com)
+[![Bug-A-Ball](https://raw.githubusercontent.com/BoundfoxStudios/.github/main/profile/bug-a-ball.png)](https://bugaball.com)
 
 ### Social Media
 
