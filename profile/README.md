@@ -14,6 +14,7 @@ Boundfox Studios is a little Indie Development Studio based in Zweibrücken, Ger
 ### Our Games
 
 [![Bug-A-Ball](https://raw.githubusercontent.com/BoundfoxStudios/.github/main/profile/bug-a-ball.png)](https://bugaball.com)
+![Mini-Plane](https://raw.githubusercontent.com/BoundfoxStudios/.github/main/profile/mini-plane.png)
 
 ### Social Media
 
